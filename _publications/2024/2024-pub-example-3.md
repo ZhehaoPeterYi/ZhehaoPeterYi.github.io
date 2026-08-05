@@ -1,6 +1,6 @@
 ---
 title:          "Enhancing variational quantum circuit training: An improved neural network approach for barren plateau mitigation"
-date:           2025-08-01 00:01:00 +0800
+date:           2025-08-1 00:01:00 +0800
 selected:       true
 pub:            "Physica Scripta, IOP Publishing"
 # pub_pre:        "Submitted to "
